@@ -10,7 +10,7 @@ To provide a comprehensive analysis of bike-friendly environments in urban areas
 The study involves collecting and analyzing data on various aspects of cycling in different cities. This includes infrastructure quality, safety measures, public policies, and the general attitude of the city towards cyclists.
 
 ## Cities Under Study
-
+ 
 ### Top 10 Worst Bike-Friendly Cities
 1. Sydney: 700 
 2. Hong Kong
